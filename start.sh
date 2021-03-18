@@ -1,0 +1,3 @@
+export NEWS_API_KEY=4bac4d9c1ee146f1a66db1d9064a8f29
+
+python manage.py server
